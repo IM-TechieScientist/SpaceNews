@@ -1,4 +1,4 @@
-# Cosmic News
+# Space News
 
 A Flutter application that provides astronomy news, Random Mars rover images (cuz its cool) and NASA Image of the Day.
 
@@ -41,4 +41,15 @@ The app uses the following APIs:
 - NASA Mars Rover Photos API
 - News API
 
-Have Fun :)
+## Screenshots
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/cd165d96-c163-4f01-8905-266ad37d8104" width="48%" />
+  <img src="https://github.com/user-attachments/assets/0fc5afb3-1496-48a7-b634-44153ecc5637" width="48%" />
+  <img src="https://github.com/user-attachments/assets/533f77df-3633-4493-bed6-1e37a9917182" width="48%" />
+  <img src="https://github.com/user-attachments/assets/5af19af6-d616-446e-b966-7c5b59a47103" width="48%" />
+</div>
+
+
+
+
+
